@@ -33,6 +33,22 @@
           display: none;
         }
 
+        a {
+          text-decoration: none;
+          color: inherit;
+          display: flex;
+
+          .icon {
+            font-size: 30px;
+            margin-right: 10px;
+            margin-left: 10px;
+
+            &.git {
+              font-size: 28px;
+            }
+          }
+        }
+
         .icon {
           font-size: 20px;
           margin-right: 5px;
