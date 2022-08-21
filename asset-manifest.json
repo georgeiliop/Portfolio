@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c8080c3b.css",
+    "main.css": "/Portfolio/static/css/main.cec1bf3f.css",
     "main.js": "/Portfolio/static/js/main.50f63a9b.js",
     "static/media/rick_morty.png": "/Portfolio/static/media/rick_morty.1509435c15b9eaa4ff5b.png",
     "static/media/museum.png": "/Portfolio/static/media/museum.5b8ea36c9d83d6b6c5df.png",
@@ -16,11 +16,11 @@
     "static/media/Giliop_3_b.png": "/Portfolio/static/media/Giliop_3_b.e765d159d2cb6b8b2fd0.png",
     "static/media/movie.png": "/Portfolio/static/media/movie.66e07b29a619af28b3f0.png",
     "index.html": "/Portfolio/index.html",
-    "main.c8080c3b.css.map": "/Portfolio/static/css/main.c8080c3b.css.map",
+    "main.cec1bf3f.css.map": "/Portfolio/static/css/main.cec1bf3f.css.map",
     "main.50f63a9b.js.map": "/Portfolio/static/js/main.50f63a9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8080c3b.css",
+    "static/css/main.cec1bf3f.css",
     "static/js/main.50f63a9b.js"
   ]
 }
