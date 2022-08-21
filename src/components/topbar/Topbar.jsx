@@ -2,7 +2,6 @@ import React from "react";
 import "./topbar.scss";
 import logoDark from "../../images/Giliop_3_b.png";
 import logoLight from "../../images/Giliop_3_w.png";
-import PersonIcon from "@mui/icons-material/Person";
 import EmailIcon from "@mui/icons-material/Email";
 import LocalPhoneIcon from "@mui/icons-material/LocalPhone";
 

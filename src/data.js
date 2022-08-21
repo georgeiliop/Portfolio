@@ -10,7 +10,7 @@ export const webPortfolio = [
     id: 1,
     title: "Porfolio App",
     img: portfolio,
-    link: "",
+    link: "https://github.com/georgeiliop/Portfolio",
   },
   {
     id: 2,
