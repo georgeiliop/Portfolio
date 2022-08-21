@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e97907d5.css",
+    "main.js": "/Portfolio/static/js/main.d59bfd81.js",
+    "static/media/rick_morty.png": "/Portfolio/static/media/rick_morty.1509435c15b9eaa4ff5b.png",
+    "static/media/museum.png": "/Portfolio/static/media/museum.5b8ea36c9d83d6b6c5df.png",
+    "static/media/meme.png": "/Portfolio/static/media/meme.4913b9b3e2a8211abd87.png",
+    "static/media/designImg.png": "/Portfolio/static/media/designImg.60f6f1055b1b02bf47ee.png",
+    "static/media/gitImg.png": "/Portfolio/static/media/gitImg.9ba7ada29d058a56bf69.png",
+    "static/media/bg-img-blue.png": "/Portfolio/static/media/bg-img-blue.29750e6738a61e5dd814.png",
+    "static/media/codeImg.png": "/Portfolio/static/media/codeImg.87e1312bf50d2a2d7c79.png",
+    "static/media/contactImg.png": "/Portfolio/static/media/contactImg.7282e1aa3e1f6c6e9c8e.png",
+    "static/media/learning.png": "/Portfolio/static/media/learning.f91e5515d6f90d3232ec.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.a807ddb79d2422d37f6e.png",
+    "static/media/Giliop_3_w.png": "/Portfolio/static/media/Giliop_3_w.5fad17ff3d1687568419.png",
+    "static/media/Giliop_3_b.png": "/Portfolio/static/media/Giliop_3_b.e765d159d2cb6b8b2fd0.png",
+    "static/media/movie.png": "/Portfolio/static/media/movie.66e07b29a619af28b3f0.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e97907d5.css.map": "/Portfolio/static/css/main.e97907d5.css.map",
+    "main.d59bfd81.js.map": "/Portfolio/static/js/main.d59bfd81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e97907d5.css",
+    "static/js/main.d59bfd81.js"
+  ]
+}
