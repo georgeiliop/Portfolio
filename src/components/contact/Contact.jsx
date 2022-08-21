@@ -16,8 +16,8 @@ const Contact = () => {
         <img src={contactImg} alt="contact Image" />
       </div>
       <div className="right">
-        <h2>Contact</h2>
         <form onSubmit={handleSubmit}>
+          <h2>Contact</h2>
           <input type="text" placeholder="Email" />
           <textarea placeholder="Message"></textarea>
           <button type="sumbit">Send</button>
