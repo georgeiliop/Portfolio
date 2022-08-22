@@ -2,6 +2,10 @@
 
 A personal portfolio app using React.js.
 
+# Github Pages
+
+You can find the deployed version here: https://georgeiliop.github.io/Portfolio/#intro 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
