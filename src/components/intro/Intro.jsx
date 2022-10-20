@@ -15,7 +15,9 @@ const Intro = () => {
         <div className="wrapper">
           <h2>Hi, I&apos;m</h2>
           <h1>Giorgos Iliopoulos</h1>
-          <h3>Software Engineer</h3>
+          <h3>
+            Front end <span>Engineer</span>
+          </h3>
           <a href="#portfolio">
             <KeyboardArrowDownIcon className="arrow" />
           </a>

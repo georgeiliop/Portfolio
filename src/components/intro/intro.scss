@@ -64,6 +64,10 @@
 
       h3 {
         font-size: 30px;
+        span {
+          font-size: inherit;
+          color: $secColor;
+        }
       }
 
       a {
@@ -78,8 +82,6 @@
         .arrow {
           font-size: 60px;
           animation: arrowBlink 2s infinite;
-          color: $secColor;
-
           @keyframes arrowBlink {
             100% {
               opacity: 0;

@@ -58,6 +58,13 @@
           margin: 10px 10px;
         }
 
+        @include medium {
+          width: 240px;
+          height: 160px;
+          border-radius: 12px;
+          margin: 10px 10px;
+        }
+
         h3 {
           font-size: 20px;
           position: absolute;

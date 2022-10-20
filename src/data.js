@@ -37,6 +37,7 @@ export const otherPortfolio = [
     id: 1,
     title: "Virtual Museum App",
     img: museum,
+    link: "https://github.com/georgeiliop/Virtual-Museum/tree/master",
   },
   {
     id: 2,
